@@ -1,0 +1,71 @@
+0.0.0.0 evice-messaging-na.amazon.com
+0.0.0.0 evicemessaging.us-east-1.amazon.com
+0.0.0.0 ls-eu.amazon.com
+0.0.0.0 ls-na.amazon.com
+0.0.0.0 ads-eu.amazon.com
+0.0.0.0 as-sdk.amazon.com
+
+0.0.0.0 #required for apps to be installed
+0.0.0.0 #as-ext.amazon.com
+
+0.0.0.0 ax-eu.amazon-adsystem.com
+
+0.0.0.0 #sh.amazon.co.uk
+
+0.0.0.0 #required for app installation / updates
+0.0.0.0 #amazonadsi-a.akamaihd.net
+
+0.0.0.0 obileanalytics.us-east-1.amazonaws.com
+
+0.0.0.0 #alexa
+0.0.0.0 #ortana-gateway.amazon.com
+0.0.0.0 #pi.amazonalexa.com
+0.0.0.0 #vs.eu.amazonalexa.com
+
+
+0.0.0.0 #updates
+0.0.0.0 oftwareupdates.amazon.com
+0.0.0.0 3p8zr0ffa9t17.cloudfront.net
+0.0.0.0 3h5bk8iotgjvw.cloudfront.net
+0.0.0.0 63r8xi1zu867.cloudfront.net
+0.0.0.0 1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 3a510xmpll7o6.cloudfront.net
+0.0.0.0 21m0ezw6fosyw.cloudfront.net
+0.0.0.0 3uf8d0lloeluq.cloudfront.net
+0.0.0.0 2n99fpfeqbnhk.cloudfront.net
+
+0.0.0.0 #ntp / time
+0.0.0.0 #tv-smp.ntp-fireos.com
+0.0.0.0 #.android.pool.ntp.org
+
+0.0.0.0 #API connections (unknown usage)
+0.0.0.0 #pi.amazon.com
+0.0.0.0 #4h9utzk4f.execute-api.us-east-1.amazonaws.com
+
+0.0.0.0 #others (unknown usage)
+0.0.0.0 #tpx-eu.amazon.com
+0.0.0.0 #p-rsm-prod.amazon.com
+0.0.0.0 #iretvdeviceprofilemanagementservice-na.amazon.com
+0.0.0.0 #rime.amazon.eu
+0.0.0.0 #p-discovery-na-ext.amazon.com
+0.0.0.0 #rank-comp-na.amazon.com
+0.0.0.0 #tvr-na.amazon.com
+0.0.0.0 #cape-na.amazon.com
+0.0.0.0 #p-gw-na.amazon.com
+0.0.0.0 #nagi-eu.amazon.com
+0.0.0.0 #ayla.amazon.com
+0.0.0.0 #odo-ta-g7g.amazon.com
+0.0.0.0 #pectrum.s3.amazonaws.com
+0.0.0.0 #rcus-uswest.amazon.com
+0.0.0.0 #inpoint.us-east-1.amazonaws.com
+0.0.0.0 #viary.amazon.de
+0.0.0.0 #igprjsurvey.amazon.eu
+
+0.0.0.0 #third party
+0.0.0.0 onfig.ioam.de
+0.0.0.0 e.ioam.de
+0.0.0.0 ecure-eu.imrworldwide.com
+0.0.0.0 ogs1409.xiti.com
+0.0.0.0 racksrv.zdf.de
+0.0.0.0 ettings.crashlytics.com
+0.0.0.0 otify.firetv.bugsnag.appstore.a2z.com
